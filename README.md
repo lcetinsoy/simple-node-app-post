@@ -1,6 +1,13 @@
 # a simple app to use JS to send frontend
 
+## install 
 
+1. install node lts
+2. run "npm install" in the folder
+
+## launch 
+
+node app.js
 
 ## access
 
